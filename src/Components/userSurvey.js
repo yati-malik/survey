@@ -24,7 +24,6 @@ function UserSurvey(props) {
     for(let element of radioButtons){
         if(element.checked){
           let questioId = element.dataset.questionid;
-          //let currentQuestionId = userSurvey[userSurvey.length -1].questionId;
           let newQuestion = createdSurvey.current.filter((element) => element.questionId == questioId);
           if(newQuestion.length === 0){
               
