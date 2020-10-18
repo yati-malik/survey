@@ -1,0 +1,140 @@
+[
+    {
+        "questionId": "q1",
+        "questionText": "Question 1",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": "q2"
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": "q3"
+            },
+            {
+                "optionId": "c",
+                "optionName": "Option 3",
+                "questionPointer": "q4"
+            },
+            {
+                "optionId": "d",
+                "optionName": "Option 4",
+                "questionPointer": "q4"
+            }
+        ]
+    },
+    {
+        "questionId": "q2",
+        "questionText": "Question 2",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": "q5"
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": "q6"
+            }
+        ]
+    },
+    {
+        "questionId": "q3",
+        "questionText": "Question 3",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": "q6"
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": "q4"
+            }
+        ]
+    },
+    {
+        "questionId": "q4",
+        "questionText": "Question 4",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": "q7"
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": null
+            }
+        ]
+    },
+    {
+        "questionId": "q5",
+        "questionText": "Question 5",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": "q8"
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": null
+            }
+        ]
+    },
+    {
+        "questionId": "q6",
+        "questionText": "Question 6",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": null
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": null
+            }
+        ]
+    },
+    {
+        "questionId": "q7",
+        "questionText": "Question 7",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": null
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": null
+            }
+        ]
+    },
+    {
+        "questionId": "q8",
+        "questionText": "Question 8",
+        "options": [
+            {
+                "optionId": "a",
+                "optionName": "Option 1",
+                "questionPointer": null
+            },
+            {
+                "optionId": "b",
+                "optionName": "Option 2",
+                "questionPointer": null
+            }
+        ]
+    }
+]
